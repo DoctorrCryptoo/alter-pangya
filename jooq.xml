@@ -7,7 +7,7 @@
             <inputSchema>alter_pangya</inputSchema>
             <forcedTypes>
                 <forcedType>
-                    <userType>work.fking.pangya.game.player.ItemUcc</userType>
+                    <userType>yer.ItemUcc</userType>
                     <includeExpression>ucc</includeExpression>
                     <jsonConverter>true</jsonConverter>
                     <includeTypes>JSON</includeTypes>
