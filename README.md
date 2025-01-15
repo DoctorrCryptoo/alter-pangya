@@ -5,7 +5,7 @@ A PangYa GB.852 server emulator
 ## Finding a client
 
 This emulator only works with the PangYa GB.852 client, if you browse around the pangya communities you'll easily find a download.
-In order to run the client it is highly recommended that you use [RugBurn](https://github.com/pangbox/rugburn).
+In order to run the client it is highly recommended that you use [RugBurn](https://githubox/rugburn).
 
 ## Working features
 The server is still a work in progress and not all features are supported/working correctly, the following features work:
